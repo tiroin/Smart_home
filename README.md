@@ -181,10 +181,8 @@ PIR chờ người vào
 
 ## 👤 Tác giả
 
-**TNVXL** — Đồ án hệ thống nhà thông minh ESP32
+Nguyễn Văn Quý
 
 ---
 
-## 📄 License
 
-MIT License
